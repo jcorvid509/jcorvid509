@@ -12,7 +12,7 @@
   
 - ## Administración de Sistemas operativos  <a href="https://github.com/jcorvid509/ASO/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
   
-- ## Administración de Bases de Datos       <a href="https://github.com/jcorvid509/ABD/blob/main/README.md"<img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
+- ## Administración de Bases de Datos       <a href="https://github.com/jcorvid509/ABD/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
 
 - ## Horas de Libre Configuración           <a href="https://github.com/jcorvid509/HLC/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
   
