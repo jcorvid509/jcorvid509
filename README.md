@@ -18,7 +18,9 @@
 
 - ## Servicios de Red e Internet            <a href="https://github.com/jcorvid509/SREI/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
 
-# 🗃️ Recursos Generales                     <a href="https://github.com/jcorvid509/.resGen"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
+# 🗃️ Recursos Generales
+
+- ## .resGen           <a href="https://github.com/jcorvid509/.resGen"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
 
 <!--
 **jcorvid509/jcorvid509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
