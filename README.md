@@ -8,17 +8,17 @@
 
 # Repositories
 
-- ## Servicios de Red e Internet            <a href="https://github.com/jcorvid509/SREI/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" aling="right"></a>
+- ## Servicios de Red e Internet            <a href="https://github.com/jcorvid509/SREI/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
   
-- ## Administración de Sistemas operativos  <a href=""><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_home.svg" width="30"></a>
+- ## Administración de Sistemas operativos  <a href="https://github.com/jcorvid509/ASO/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
   
-- ## Administración de Bases de Datos       <a href=""><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_home.svg" width="52.5"></a>
+- ## Administración de Bases de Datos       <a href="https://github.com/jcorvid509/ABD/blob/main/README.md"<img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
 
-- ## Horas de Libre Configuración           <a href=""><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_home.svg" width="52.5"></a>
+- ## Horas de Libre Configuración           <a href="https://github.com/jcorvid509/HLC/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
   
-- ## Seguridad y Alta Disponibilidad        <a href="https://github.com/jcorvid509/.resGe"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_home.svg" width="52.5"></a>
+- ## Seguridad y Alta Disponibilidad        <a href="https://github.com/jcorvid509/SAD/blob/main/README.md"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
 
-- ## Recursos Generales                     <a href="https://github.com/jcorvid509/.resGen"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_home.svg" width="52.5"></a>
+- ## Recursos Generales                     <a href="https://github.com/jcorvid509/.resGen"><img src="https://raw.githubusercontent.com/jcorvid509/.resGen/dbf0397a38c3e0828d9bd164f719d77f3d977cda/_arrow.svg" width="30" align="right"></a>
 
 <!--
 **jcorvid509/jcorvid509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
